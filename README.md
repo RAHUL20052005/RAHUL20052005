@@ -109,8 +109,10 @@ A **Data Analyst** role where I can work with SQL, Python and BI tools to turn d
 ## 📫 Let's Connect
 
 - 🌐 Portfolio: [rahul20052005.github.io](https://rahul20052005.github.io)
-- 💼 LinkedIn: [Battu Rahul Sai](YOUR_LINKEDIN_URL)
-- 📧 Email: YOUR_EMAIL
+- 💼 LinkedIn: www.linkedin.com/in/battu-rahul-sai-923280376
+
+
+- 📧 Email: rahulsaibattu@gmail.com
 
 <p align="center">
   ⭐ Thanks for visiting my profile!
